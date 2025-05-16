@@ -6,8 +6,7 @@ import java.sql.SQLException;
 
 /**
  * @author 위희수
- *  데이터 베이스 연결을 관리하는 유틸리티 클래스
- *
+ * 데이터 베이스 연결을 관리하는 유틸리티 클래스
  */
 public class DataBaseUtil {
 
@@ -17,7 +16,7 @@ public class DataBaseUtil {
 
     // 데이터 베이스 연결 객체를 반환하는 함수
     public static Connection getConnection() throws SQLException {
-        return DriverManager.getConnection(DB_URL, DB_URL, DB_PASSWORD);
+        return DriverManager.getConnection(DB_URL, DB_USER, DB_PASSWORD);
     }
 
 
