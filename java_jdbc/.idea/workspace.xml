@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed1a7748-cd3b-4f15-ae1a-c05a39263992" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch03/JavaJDBCExample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/JavaJDBCExample4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/CafeMenuManger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cho2/JDBCExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cho2/JDBCExample2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/lombok.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_27.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cho2/JDBCExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/JDBCExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cho2/JDBCExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/JDBCExample2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,16 +42,18 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/class_work_java_v2/java_useful",
+    "last_opened_file_path": "C:/class_work_java_v2/class_work_java_v2/java_jdbc/lib",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\class_work_java_v2\class_work_java_v2\java_jdbc\lib" />
       <recent name="C:\class_work_java_v2\java_jdbc\lib" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -78,11 +75,11 @@
       </method>
     </configuration>
     <configuration name="JDBCExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cho2.JDBCExample" />
+      <option name="MAIN_CLASS_NAME" value="ch02.JDBCExample" />
       <module name="java_jdbc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cho2.*" />
+          <option name="PATTERN" value="ch02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,11 +88,11 @@
       </method>
     </configuration>
     <configuration name="JDBCExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cho2.JDBCExample2" />
+      <option name="MAIN_CLASS_NAME" value="ch02.JDBCExample2" />
       <module name="java_jdbc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cho2.*" />
+          <option name="PATTERN" value="ch02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,14 +113,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.CafeMenuManger" />
-        <item itemvalue="Application.JDBCExample2" />
-        <item itemvalue="Application.JavaJDBCExample3" />
-        <item itemvalue="Application.JDBCExample" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
