@@ -41,7 +41,7 @@ public class BookDAO {
     public static void main(String[] args) {
         BookDAO bookDAO =new BookDAO();
         try {
-            System.out.println("book 조회");
+            System.out.println("book 조회!");
             bookDAO.getAllBooks();
         } catch (SQLException e) {
             throw new RuntimeException(e);
